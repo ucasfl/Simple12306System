@@ -1,4 +1,4 @@
-### A Weakest 12306 System implemented with teammate [@dingshizhe](https://github.com/dingshizhe).
+### The Weakest 12306 System implemented by `Apache2 + Postgresql + Php` with teammate [@dingshizhe](https://github.com/dingshizhe).
 
 ### code
 ```
