@@ -9,7 +9,7 @@ create table Station
 -- $ sudo chown -R postgres train-2016-10
 
 copy Station
-from './tmp/all-stations-out.txt'
+from './all-stations-out.txt'
 with (FORMAT csv);
 
 -- Test if import success
@@ -37,7 +37,7 @@ create table Passby
 );
 
 copy Passby
-from './tmp/pass_by_all_data/all-all.csv'
+from './all-all.csv'
 with (FORMAT csv);
 
 -- dbmslab2=# copy Passby
