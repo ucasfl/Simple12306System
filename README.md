@@ -1,4 +1,4 @@
-### A Weakest 12306 System implemented with teammate @[dingshizhe](https://github.com/dingshizhe).
+### A Weakest 12306 System implemented with teammate [@dingshizhe](https://github.com/dingshizhe).
 
 ```
 cgi-bin
