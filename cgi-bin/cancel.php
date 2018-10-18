@@ -84,4 +84,3 @@ pg_close($conn);
 ?>
 </body>
 </html>
-
